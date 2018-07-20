@@ -1,0 +1,19 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "CRUD app with node and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devincheca/nodemysql.git"
+  },
+  "author": "Devin Checa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devincheca/nodemysql/issues"
+  },
+  "homepage": "https://github.com/devincheca/nodemysql#readme"
+}
